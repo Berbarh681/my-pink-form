@@ -1,0 +1,25 @@
+body{
+    background-image: url(./bg-intro-desktop.png);
+    background-color: hsla(350, 65%, 60%, 0.712);
+}
+.form{
+    height: 50vh;
+    margin: auto;
+    padding: 40px;
+}
+.blueviolet{
+    height: 5vh;
+    background-color: blueviolet;
+    text-align: center;
+}
+.green{
+    height: 5vh;
+    background-color: green;
+    text-align: center;
+    border-radius: 2rem;
+}
+.all{
+    align-items: center;
+
+
+}
